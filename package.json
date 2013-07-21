@@ -1,0 +1,16 @@
+{
+  "name": "gist-indexer",
+  "version": "0.0.1",
+  "description": "Client ID b7bc6c86aba67142bc63 Client Secret 9057e73c1765f5bc3d17a53669960156d089a3f2",
+  "main": "main.js",
+  "dependencies": {
+    "github": "~0.1.10",
+    "reds": "~0.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD"
+}
