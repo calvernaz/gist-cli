@@ -7,8 +7,6 @@ gist-cli
   * [GitHub API token access] (http://developer.github.com/v3/oauth/)
 
 ## Installation
-
-    $ npm install gist-cli
      
   Install dependencies:
 
