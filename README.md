@@ -9,7 +9,11 @@ gist-cli
 ## Installation
 
     $ npm install gist-cli
-    
+     
+  Install dependencies:
+
+    $ npm install -d
+
 ## Configuration
 
   * Edit config.json file and insert your developer key
@@ -18,4 +22,19 @@ gist-cli
 {
   "Token": "INSERT_YOUR_KEY_HERE" 
 }
-```     
+```
+
+## Run
+
+    $ ./gist-console
+    
+  Examples:
+  
+    $ ./gist-console search javascript    
+    $ ./gist-console download 5864158
+    
+		
+		
+    
+  
+  
